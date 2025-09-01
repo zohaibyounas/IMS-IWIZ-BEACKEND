@@ -1,4 +1,4 @@
-name: Keep Render App Awake
+name: Keep render web
 
 on:
   schedule:
